@@ -36,3 +36,6 @@ config: {
   // ...
 }
 ```
+
+
+cài nodejs,npm, yarm các kiểu bla bla đi
