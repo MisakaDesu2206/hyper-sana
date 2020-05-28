@@ -37,5 +37,4 @@ config: {
 }
 ```
 
-
-cài nodejs,npm, yarm các kiểu bla bla đi
+cài môi trường cho nó đi
